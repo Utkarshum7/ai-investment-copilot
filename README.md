@@ -1,4 +1,4 @@
-# Valura AI Microservice
+# AI Investment Microservice
 
 The Valura AI microservice is the intelligence layer designed to serve as an expert co-investor. It helps users build, monitor, grow, and protect their wealth.
 
